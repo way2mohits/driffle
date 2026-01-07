@@ -1,0 +1,19 @@
+.searchBar {
+  display: flex;
+  gap: 12px;
+  width:50%;
+  margin: 32px auto;
+}
+
+.searchBar input {
+  flex: 1;
+  padding: 14px 16px;
+  border-radius: 12px;
+  border: 1px solid #ddd;
+  font-size: 15px;
+}
+
+.searchBar input:focus {
+  outline: none;
+  border-color: #4f46e5;
+}
