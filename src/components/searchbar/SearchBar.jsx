@@ -1,7 +1,7 @@
-import { useContext } from 'react';
-import style from './SearchBar.module.css'
-import { SearchContext } from '../../Context/SearchContext';
-import { getTranslatedLanguage } from '../../utils/language';
+import { useContext } from "react";
+import style from "./SearchBar.module.css";
+import { SearchContext } from "../../Context/SearchContext";
+import { getTranslatedLanguage } from "../../utils/language";
 const SearchBar = () => {
   const handleSearch = useContext(SearchContext);
   return (

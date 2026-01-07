@@ -6,8 +6,7 @@
   max-width: 440px;
   display: flex;
   flex-direction: row;
-  padding:10px
-  
+  padding: 10px;
 }
 
 @media (hover: hover) {
@@ -37,7 +36,7 @@
 }
 
 .cardContent {
-  margin-left:5%;
+  margin-left: 5%;
   width: 35%;
 }
 

@@ -10,12 +10,12 @@ export const getInitialLanguage = () => {
   return "en";
 };
 
-const convertKeyToSnakeCase = (key)=>{
-  return key.toLowerCase().split(' ').join('_').split("'").join("")
-}
+const convertKeyToSnakeCase = (key) => {
+  return key.toLowerCase().split(" ").join("_").split("'").join("");
+};
 
 export const getTranslatedLanguage = (key) => {
-  const selectedLanguage = localStorage.getItem('language') || 'en';
+  const selectedLanguage = localStorage.getItem("language") || "en";
   const translationKeys = translation[selectedLanguage];
 
   if (!translationKeys) return key;

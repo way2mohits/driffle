@@ -1,18 +1,16 @@
 .productList {
   display: grid;
-  grid-template-columns: 1fr; /* mobile */
+  grid-template-columns: 1fr;
   gap: 16px;
   padding: 16px;
 }
 
-/* tablet */
 @media (min-width: 640px) {
   .productList {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
-/* desktop */
 @media (min-width: 1024px) {
   .productList {
     grid-template-columns: repeat(4, 1fr);

@@ -18,7 +18,8 @@ export const translation = {
     annibale_colombo_bed: "Annibale Colombo Bed",
     annibale_colombo_sofa: "Annibale Colombo Sofa",
     bedside_table_african_cherry: "Bedside Table African Cherry",
-    knoll_saarinen_executive_conference_chair: "Knoll Saarinen Executive Conference Chair",
+    knoll_saarinen_executive_conference_chair:
+      "Knoll Saarinen Executive Conference Chair",
     wooden_bathroom_sink_with_mirror: "Wooden Bathroom Sink With Mirror",
     apple: "Apple",
     beef_steak: "Beef Steak",
@@ -35,9 +36,9 @@ export const translation = {
     ice_cream: "Ice Cream",
     juice: "Juice",
     kiwi: "Kiwi",
-    about:"About",
-    contact:"Contact",
-    privacy_policy:"Privacy policy"
+    about: "About",
+    contact: "Contact",
+    privacy_policy: "Privacy policy",
   },
   es: {
     search_results_for: "Resultados de búsqueda para",
@@ -58,7 +59,8 @@ export const translation = {
     annibale_colombo_bed: "Cama Annibale Colombo",
     annibale_colombo_sofa: "Sofá Annibale Colombo",
     bedside_table_african_cherry: "Mesita de noche de cerezo africano",
-    knoll_saarinen_executive_conference_chair: "Silla ejecutiva de conferencia Knoll Saarinen",
+    knoll_saarinen_executive_conference_chair:
+      "Silla ejecutiva de conferencia Knoll Saarinen",
     wooden_bathroom_sink_with_mirror: "Lavabo de baño de madera con espejo",
     apple: "Manzana",
     beef_steak: "Filete de res",
@@ -76,7 +78,7 @@ export const translation = {
     juice: "Jugo",
     kiwi: "Kiwi",
     about: "Acerca de",
-  contact: "Contacto",
-  privacy_policy: "Política de privacidad"
+    contact: "Contacto",
+    privacy_policy: "Política de privacidad",
   },
 };
