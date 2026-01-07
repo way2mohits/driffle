@@ -34,7 +34,10 @@ export const translation = {
     honey_jar: "Honey Jar",
     ice_cream: "Ice Cream",
     juice: "Juice",
-    kiwi: "Kiwi"
+    kiwi: "Kiwi",
+    about:"About",
+    contact:"Contact",
+    privacy_policy:"Privacy policy"
   },
   es: {
     search_results_for: "Resultados de búsqueda para",
@@ -71,6 +74,9 @@ export const translation = {
     honey_jar: "Tarro de miel",
     ice_cream: "Helado",
     juice: "Jugo",
-    kiwi: "Kiwi"
+    kiwi: "Kiwi",
+    about: "Acerca de",
+  contact: "Contacto",
+  privacy_policy: "Política de privacidad"
   },
 };
